@@ -1,0 +1,10 @@
+# Claude Code 配置目录
+.claude/
+
+# PowerShell 临时文件
+*.ps1proj
+*.psess
+
+# Windows 缩略图缓存
+Thumbs.db
+Desktop.ini
